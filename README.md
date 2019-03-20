@@ -6,6 +6,9 @@ I use Lex to implement scanner for analysing input command.
 
 This program provide basic pipe(|) and redirection(>,>>,<,<<) function.
 
-#linux
+#LINUX
 
 #c
+
+demo image:
+
